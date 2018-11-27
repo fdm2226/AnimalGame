@@ -1,2 +1,2 @@
 # AnimalGame
-Animal game with tree sort
+Animal game with tree sort with a minor AI 
